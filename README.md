@@ -38,7 +38,10 @@ This project showcases **clean architecture**, **best practices**, and **modern 
 
 | Login Screen | Signup Screen | Home Screen |
 |--------------|---------------|-------------|
-| <img src="screenshots/login.png" width="200"> | <img src="screenshots/signup.png" width="200"> | <img src="screenshots/home.png" width="200"> |
+| <img width="1080" height="2400" alt="Screenshot_1762603591" src="https://github.com/user-attachments/assets/c665d667-26ed-44a1-819b-c43f8e1062a4" /> | <img width="1080" height="2400" alt="Screenshot_1762603601" src="https://github.com/user-attachments/assets/fbc3fcf2-6e96-434b-91ae-2ade9ff0b74d" /> | <img width="1080" height="2400" alt="Screenshot_1762603635" src="https://github.com/user-attachments/assets/99bce72f-019c-4dc2-b5f5-264e19aa3c86" />|
+
+
+
 
 ---
 
